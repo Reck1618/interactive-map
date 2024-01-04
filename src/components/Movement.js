@@ -145,7 +145,7 @@ function Movement() {
 					Key Down
 				</p>
 			)}
-			<IconButton
+			<IconButton 
 				sx={{
 					transform: "scale(0.7)",
 					position: "absolute",
